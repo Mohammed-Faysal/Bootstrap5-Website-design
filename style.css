@@ -1,0 +1,19 @@
+.c-item{
+    height: 95vh;
+}
+
+.c-item .c-img{
+    height: 100%;
+    object-fit: cover;
+}
+
+.navbar-brand img{
+    width: 40px;
+    margin-right: 10px;
+    margin-bottom: 7px;
+    transform: rotate(45deg);
+}
+
+.text-justify{
+    text-align: justify;
+}
